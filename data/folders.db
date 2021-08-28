@@ -1,0 +1,18 @@
+{"_id":"1Ag39PSvGDwm4srD","name":"Mina de cristal","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Munhoz","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"6kg37xNniX1y2gVc"}
+{"_id":"7pSyW0xNLdEYoThF","name":"midtate mapas","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Emi","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff5252","flags":{},"_id":"9IG6l9weIJK6us30"}
+{"name":"Gustavo","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"DvfA2IJs3fveM921"}
+{"name":"inimigos","type":"Actor","sort":100000,"flags":{},"parent":"ieoyY2YYc8xnj1Mi","sorting":"a","color":"#4d52ff","_id":"EcUx3FiQeCIBFHYa"}
+{"name":"midtate mna","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"FI8KUbeihEXbVe13"}
+{"name":"Lore","type":"JournalEntry","sort":400000,"flags":{},"parent":"tN2IveU1612KyIQ0","sorting":"a","color":"","_id":"GnWUKaPlFgWFRkK4"}
+{"_id":"IETFIpfkYQEyzjAX","name":"Personagens","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Keyblade Wielder","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#fff700","_id":"LLJSRBCIqSsHG7ud"}
+{"_id":"TDduakGujGgWYZ9M","name":"NPCS PC","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Itens","type":"JournalEntry","sort":300000,"flags":{},"parent":"tN2IveU1612KyIQ0","sorting":"a","color":"","_id":"bDWFS8dWpX24C58G"}
+{"name":"Reinos","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#00fffb","_id":"c96GHA3MrOAi5AF8"}
+{"name":"ataques","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#ff0000","_id":"gLzVjo023jyF49yL"}
+{"_id":"ieoyY2YYc8xnj1Mi","name":"Mina de cristal","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#0ecfdd"}
+{"name":"ITEM","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"oC76C24W8dtVr4rt"}
+{"name":"Mina de cristal","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"tN2IveU1612KyIQ0"}
+{"name":"imagens","type":"JournalEntry","sort":700000,"flags":{},"parent":"IETFIpfkYQEyzjAX","sorting":"a","color":"","_id":"wowo1gr4Qm4R8fR5"}
